@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "43F8FBF33A36A87324EF6363"
+               BlueprintIdentifier = "34A02F57C806A320CBFC8EE4"
                BuildableName = "libPods-InstagramLikeBooster-Parse.a"
                BlueprintName = "Pods-InstagramLikeBooster-Parse"
                ReferencedContainer = "container:Pods.xcodeproj">

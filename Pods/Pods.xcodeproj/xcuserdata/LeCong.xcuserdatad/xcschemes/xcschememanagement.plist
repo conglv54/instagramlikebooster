@@ -4,7 +4,17 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>Pods-InstagramLikeBooster-AFNetworking.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>Pods-InstagramLikeBooster-Bolts.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-InstagramLikeBooster-InstagramKit.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -22,17 +32,27 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>1381EE678F5EEA1F2B1DD4FC</key>
+		<key>10F1CB809CAFCAF2A74F852A</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>43F8FBF33A36A87324EF6363</key>
+		<key>34A02F57C806A320CBFC8EE4</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>AE7A373A87097DA65CC101C4</key>
+		<key>41A23222BA8E43C3F51C9600</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>51D590D9DF57E3021047C27E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FF76D85FE7858915B3F0974B</key>
 		<dict>
 			<key>primary</key>
 			<true/>

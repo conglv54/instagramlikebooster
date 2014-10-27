@@ -71,6 +71,34 @@ fi
 			<key>showEnvVarsInLog</key>
 			<string>0</string>
 		</dict>
+		<key>58D6661519FEAB3800F30CD3</key>
+		<dict>
+			<key>fileEncoding</key>
+			<string>4</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>Constant.h</string>
+			<key>path</key>
+			<string>Constant/Constant.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>58D6661819FEAB3E00F30CD3</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>58D6661519FEAB3800F30CD3</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Constant</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>58DB570F19FE983C00C557F1</key>
 		<dict>
 			<key>children</key>
@@ -261,6 +289,7 @@ fi
 				<string>58DB572219FE983D00C557F1</string>
 				<string>58DB572319FE983D00C557F1</string>
 				<string>58DB572519FE983D00C557F1</string>
+				<string>58D6661819FEAB3E00F30CD3</string>
 				<string>58DB572819FE983D00C557F1</string>
 				<string>58DB572A19FE983D00C557F1</string>
 				<string>58DB571B19FE983D00C557F1</string>
@@ -764,6 +793,8 @@ fi
 			</array>
 			<key>defaultConfigurationIsVisible</key>
 			<string>0</string>
+			<key>defaultConfigurationName</key>
+			<string>Release</string>
 			<key>isa</key>
 			<string>XCConfigurationList</string>
 		</dict>
@@ -820,6 +851,8 @@ fi
 			</array>
 			<key>defaultConfigurationIsVisible</key>
 			<string>0</string>
+			<key>defaultConfigurationName</key>
+			<string>Release</string>
 			<key>isa</key>
 			<string>XCConfigurationList</string>
 		</dict>

@@ -6,6 +6,7 @@ source 'https://github.com/CocoaPods/Specs.git'
 target "InstagramLikeBooster" do
 
 pod 'Parse'
+pod 'InstagramKit'
 
 end
 

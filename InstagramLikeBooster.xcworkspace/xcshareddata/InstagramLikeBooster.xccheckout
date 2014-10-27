@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F17BC35A-90FD-43C6-835E-BA4F744B5331</string>
+	<key>IDESourceControlProjectName</key>
+	<string>InstagramLikeBooster</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DA9100CCA5203850580F1B3E3CCA9367D6FD0F2B</key>
+		<string>https://github.com/conglv54/instagramlikebooster.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>InstagramLikeBooster.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DA9100CCA5203850580F1B3E3CCA9367D6FD0F2B</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/conglv54/instagramlikebooster.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DA9100CCA5203850580F1B3E3CCA9367D6FD0F2B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DA9100CCA5203850580F1B3E3CCA9367D6FD0F2B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>InstagramLikeBooster</string>
+		</dict>
+	</array>
+</dict>
+</plist>
